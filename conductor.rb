@@ -1,8 +1,8 @@
 class Conductor < Formula
   desc "K8s CLI tool that fills gaps in kubectl"
   homepage "https://github.com/Braundo/conductor"
-  url "https://github.com/Braundo/conductor/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "722e7e6c9dd68c6094a6a4294fc4ad21e1e0867dc5543fd2b955b555e18d3fee"
+  url "https://github.com/Braundo/conductor/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "c607145238d6c5740786d27af7f7a682c4168f79089f1f785385a38e6ef3bbd4"
 
   depends_on "go" => :build # Specify dependencies
 
